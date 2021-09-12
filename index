@@ -51,39 +51,53 @@
 
     <div class="carrosel-filmes">
         <div class="owl-carousel owl-theme">
-            <div class="item">
-                <img class=".box-filme" src="img/a-ent.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/halloween.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/invoc.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/it.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/o-mas.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/o-sexto.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/sobrenatural.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/jogos.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/o-ilu.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/brinq.jpg" alt="">
-            </div>
-            <div class="item">
-                <img class=".box-filme" src="img/the-ex.jpg" alt="">
-            </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=xUntodg-vXY" target="_blank">
+                        <img class=".box-filme" src="img/the-ex.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=T5ke9IPTIJQ" target="_blank">
+                        <img class=".box-filme" src="img/halloween.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=GQrrXceHn2E" target="_blank">
+                        <img class=".box-filme" src="img/invoc.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=dD264ZjfKlk" target="_blank">
+                        <img class=".box-filme" src="img/it.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=JU5Oo9uLvhM " target="_blank">
+                        <img class=".box-filme" src="img/o-mas.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=1IMxfQQaFKY" target="_blank">
+                        <img class=".box-filme" src="img/o-sexto.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=0AHVW_yenRs" target="_blank">
+                        <img class=".box-filme" src="img/sobrenatural.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=S-1QgOMQ-ls" target="_blank">
+                        <img class=".box-filme" src="img/jogos.jpg" alt=""></a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=m6FRnb2AvvE" target="_blank">
+                        <img class=".box-filme" src="img/o-ilu.jpg" alt=""></a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=jXKzQO9CvKg" target="_blank">
+                        <img class=".box-filme" src="img/brinq.jpg" alt=""></a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=-Q_dwLGd2Rs" target="_blank">
+                        <img class=".box-filme" src="img/a-ent.jpg" alt=""></a>
+                </div>
+
         </div>
     </div>
 
